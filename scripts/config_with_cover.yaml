@@ -1,0 +1,17 @@
+# 微信公众号配置
+wechat:
+  app_id: "wxa786d3fd78dd6bd6"
+  app_secret: "81e30eec53f7f420c77bb0f16c5f965a"
+  name: "亲子萌娃日常"
+  cover_media_id: "menzuMkbaFB9FiAluPMZBCEe37Krc0YMG84lkoj-WYSJWAcoyyO9wJFSXvE4JPTs"
+
+# API配置
+api:
+  base_url: "https://api.weixin.qq.com"
+  token_url: "/cgi-bin/token"
+  draft_add_url: "/cgi-bin/draft/add"
+
+# 文件路径
+paths:
+  articles_dir: "/root/.openclaw/workspace/articles/to-publish"
+  published_log: "/root/.openclaw/workspace/articles/logs/published-log.csv"
