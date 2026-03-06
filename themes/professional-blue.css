@@ -1,0 +1,178 @@
+/* Professional Blue Theme - 专业蓝主题
+ * 适合：专业类、技术类、法律类公众号
+ * 作者：袁律团队
+ * 日期：2026-03-06
+ */
+
+.weui-article {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft YaHei", sans-serif;
+  line-height: 1.8;
+  color: #2c3e50;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.weui-article h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #1a5490;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 10px;
+}
+
+.weui-article h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2980b9;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border-left: 4px solid #3498db;
+  padding-left: 10px;
+}
+
+.weui-article h3 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #3498db;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+
+.weui-article p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.weui-article strong {
+  color: #e74c3c;
+  font-weight: 600;
+}
+
+.weui-article em {
+  color: #3498db;
+  font-style: normal;
+}
+
+.weui-article ul,
+.weui-article ol {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+.weui-article li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.weui-article blockquote {
+  border-left: 4px solid #3498db;
+  padding: 15px;
+  margin: 20px 0;
+  background: #ecf0f1;
+  color: #7f8c8d;
+  border-radius: 4px;
+}
+
+.weui-article code {
+  background: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: "Consolas", "Monaco", monospace;
+  color: #e74c3c;
+}
+
+.weui-article pre {
+  background: #2c3e50;
+  color: #ecf0f1;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin: 20px 0;
+}
+
+.weui-article pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+.weui-article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.weui-article th,
+.weui-article td {
+  border: 1px solid #bdc3c7;
+  padding: 10px;
+  text-align: left;
+}
+
+.weui-article th {
+  background: #3498db;
+  color: white;
+  font-weight: 600;
+}
+
+.weui-article tr:nth-child(even) {
+  background: #ecf0f1;
+}
+
+.weui-article hr {
+  border: none;
+  border-top: 2px solid #bdc3c7;
+  margin: 30px 0;
+}
+
+.weui-article a {
+  color: #3498db;
+  text-decoration: none;
+  border-bottom: 1px dotted #3498db;
+}
+
+.weui-article a:hover {
+  color: #2980b9;
+  border-bottom-style: solid;
+}
+
+.weui-article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.highlight-box {
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+.info-box {
+  background: #d1ecf1;
+  border-left: 4px solid #17a2b8;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+.success-box {
+  background: #d4edda;
+  border-left: 4px solid #28a745;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+.warning-box {
+  background: #f8d7da;
+  border-left: 4px solid #dc3545;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 4px;
+}

@@ -1,0 +1,44 @@
+/* Fresh Green Theme - 清新绿主题
+ * 适合：健康类、环保类、自然类公众号
+ */
+
+.weui-article {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft YaHei", sans-serif;
+  line-height: 1.8;
+  color: #2c3e50;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.weui-article h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #27ae60;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #2ecc71;
+  padding-bottom: 10px;
+}
+
+.weui-article h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2ecc71;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border-left: 4px solid #27ae60;
+  padding-left: 10px;
+}
+
+.weui-article strong {
+  color: #e67e22;
+  font-weight: 600;
+}
+
+.weui-article blockquote {
+  border-left: 4px solid #2ecc71;
+  padding: 15px;
+  margin: 20px 0;
+  background: #e8f8f5;
+  color: #16a085;
+  border-radius: 4px;
+}

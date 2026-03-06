@@ -1,0 +1,55 @@
+/* Elegant Purple Theme - 优雅紫主题
+ * 适合：情感类、生活类、女性向公众号
+ */
+
+.weui-article {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft YaHei", sans-serif;
+  line-height: 1.8;
+  color: #4a4a4a;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.weui-article h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #8e44ad;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #9b59b6;
+  padding-bottom: 10px;
+}
+
+.weui-article h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #9b59b6;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border-left: 4px solid #8e44ad;
+  padding-left: 10px;
+}
+
+.weui-article p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.weui-article strong {
+  color: #e91e63;
+  font-weight: 600;
+}
+
+.weui-article blockquote {
+  border-left: 4px solid #9b59b6;
+  padding: 15px;
+  margin: 20px 0;
+  background: #f3e5f5;
+  color: #7b1fa2;
+  border-radius: 4px;
+}
+
+.weui-article a {
+  color: #9b59b6;
+  text-decoration: none;
+  border-bottom: 1px dotted #9b59b6;
+}
